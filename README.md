@@ -26,4 +26,4 @@ System-level parameters encode how the MIMO configuration is used in practice. R
 
 By considering these five major factors—Array Geometry, Signal & Source Characteristics, Hardware & Propagation Effects, Algorithmic Factors, and System-Level Parameters—engineers and researchers can systematically analyze and optimize MIMO system performance for a wide range of applications.
 
-![MIMO Performance Factors](./Tests/MIMO_System_Infographic_02.png)
+![MIMO Performance Factors](./figures/MIMO_System_Infographic_02.png)
